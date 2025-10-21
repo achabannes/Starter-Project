@@ -52,6 +52,6 @@ class Triangles:
 t = Triangles()
 
 print(t.isIsoscelesTriangle(0, 0, 2, 0, 1, 2))
-
+print(t.isIsoscelesTriangle(0, 0, 4, 0, 1, 4)) 
 
 # Comment or delete the above test code before submitting.
