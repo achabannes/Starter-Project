@@ -1,6 +1,6 @@
 # Starter-Project - Isosceles Triangle 
 
-*A project for me to learn more about GitHub!* It has a program that I created for one of my classes that detects if an input is an isosceles triangle. This is a tringle with at least 2 equal sides. 
+*A project for me to learn more about GitHub!* It has a program that I created for one of my classes that detects if an input is an isosceles triangle. This is a tringle with at least 2 equal sides. This repository may be public now, but it will be made private in the future. 
 
 <img width="763" height="1201" alt="image" src="https://github.com/user-attachments/assets/f638a952-4cb5-446c-ae8e-d398d7f9a90f" />
 
