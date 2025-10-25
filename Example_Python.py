@@ -1,7 +1,6 @@
 import math
 
-# This was code for my discrete class hw. I am using it to test github function 
-# DO NOT CHANGE THE NAMES OF THE FILE, CLASS or METHOD
+# This was code for my discrete class homework. I am using it to test github function 
 
 class Triangles:
 
@@ -46,8 +45,7 @@ class Triangles:
             return False 
 
 
-# For testing your code uncomment below lines.
-
+# TEST CASES
 
 t = Triangles()
 
