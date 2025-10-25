@@ -1,6 +1,6 @@
 import math
 
-# This was code for my discrete class homework. I am using it to test github function 
+# This was code for my discrete class homework. I am using it to test GitHub function
 
 class Triangles:
 
